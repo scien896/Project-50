@@ -1,0 +1,15 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    background: #f05454;
+    color: #30475e;
+}
+ a{
+   color: rgb(0, 19, 36);
+}
+ .body{
+   display: flex;
+   align-items: flex-start;
+   background: rgb(119, 118, 118);
+   color: black;
+ }
